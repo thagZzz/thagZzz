@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thagZzz
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning NFTs
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate with interested ones
 - 📫 How to reach me :-)
 
